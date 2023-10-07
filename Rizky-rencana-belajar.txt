@@ -1,0 +1,3 @@
+Rencana belajar
+-GIT & GITHUB
+-Tailwind css
