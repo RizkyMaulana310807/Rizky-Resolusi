@@ -4,6 +4,7 @@ Rencana belajar
 -PHP lagii
 -JavaScript framework
 *VUE
+*React
 -Databse
 -framework PHP
 -Fundamental construct
