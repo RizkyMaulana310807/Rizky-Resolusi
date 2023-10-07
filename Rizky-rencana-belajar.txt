@@ -2,10 +2,10 @@ Rencana belajar
 -GIT & GITHUB
 -Tailwind css
 -PHP lagii
--JavaScript lanjutan
+-JavaScript framework
+*VUE
+*React
 -Databse
 -framework PHP
 -Fundamental construct
--Java lanjutan
--python
--Angular
+-JavaScript Lanjutan
