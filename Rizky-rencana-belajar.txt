@@ -4,3 +4,4 @@ Rencana belajar
 -PHP lagii
 -Databse
 -framework PHP
+-Fundamental construct
