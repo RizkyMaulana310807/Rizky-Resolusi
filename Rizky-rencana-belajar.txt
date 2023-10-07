@@ -1,3 +1,6 @@
 Rencana belajar
 -GIT & GITHUB
 -Tailwind css
+-PHP lagii
+-Databse
+-framework PHP
